@@ -3,7 +3,7 @@ Kochi Metro – AI-Driven Train Induction Planning & Scheduling
 
 This repository contains the design prototype and supporting assets for the Smart AI-based train scheduling and induction system developed for Kochi Metro Rail Limited (KMRL). The solution addresses current operational challenges by combining AI, IoT, Cloud-first architecture, and Human-in-the-loop decision support into one platform.
 
-🏷Repository Tagline (GitHub description)
+•Repository Tagline (GitHub description)
 “AI-powered metro train induction & scheduling prototype with live route visualization, cloud-first design, and human-in-the-loop controls for Kochi Metro Rail Limited.”
 
 •Repository Contents
